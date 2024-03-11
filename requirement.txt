@@ -1,0 +1,13 @@
+This system needs some libraries to be work.
+
+Run these package keyword using pip in Command Prompt:
+- python-opencv2
+- pandas
+- numpy
+- matplotlob
+- mtcnn
+- keras_facenet
+- sklearn
+- seaborn
+- joblib
+- h5py
